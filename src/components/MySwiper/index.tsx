@@ -12,7 +12,6 @@ const MySwiper = () => {
   return (
     <div className="mt-4">
       <Swiper
-        spaceBetween={30}
         // freeMode={true}
         pagination={{
           clickable: true
